@@ -1,6 +1,10 @@
 body {
-  background-color: aquamarine;
+  background-color: rgb(162, 207, 192);
 }
 h1 {
   color: blue;
+}
+.list_item {
+  color: blueviolet;
+  list-style-type: upper-roman;
 }
